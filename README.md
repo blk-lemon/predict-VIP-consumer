@@ -1,4 +1,4 @@
-# project_predict-consumer
+# project_predict-VIP-consumer
 
 this project is about to use a fabled company and dataset to demonstrate a real world business problem by using machine learning
 
